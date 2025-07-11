@@ -2,11 +2,21 @@
 
 ## Overview
 
-This is a modern, responsive portfolio website for a DevOps and Cloud Engineer, built as a full-stack application with React frontend and Express.js backend. The project showcases professional experience, projects, skills, and certifications in an interactive and visually appealing manner.
+This is a modern, responsive portfolio website for Harshal Jadhav, a DevOps and Cloud Engineer. Built as a full-stack application with React frontend and Express.js backend, featuring animated DevOps-themed elements, glassmorphism design, and comprehensive professional showcase sections.
 
 ## User Preferences
 
 Preferred communication style: Simple, everyday language.
+
+## Recent Changes (January 2025)
+
+✓ Built complete animated DevOps portfolio with all sections
+✓ Added floating DevOps icons and pipeline animations  
+✓ Implemented glassmorphism design with gradient themes
+✓ Fixed profile image positioning with object-cover
+✓ Added FinOps Certified Engineer certification (prioritized)
+✓ Updated education institution name formatting
+✓ Optimized for production deployment
 
 ## System Architecture
 
