@@ -5,6 +5,14 @@ import { Button } from "@/components/ui/button";
 const CertificationsSection = () => {
   const certifications = [
     {
+      title: "FinOps Certified Engineer",
+      issuer: "The Linux Foundation",
+      icon: "💰",
+      link: "https://www.credly.com/badges/6a7b93fd-d456-4bb7-8340-a1439c958212/public_url",
+      gradient: "from-purple-500 to-pink-500",
+      color: "text-purple-400"
+    },
+    {
       title: "AWS Solutions Architect – Associate",
       issuer: "ExcelR",
       icon: "🏆",
@@ -27,14 +35,6 @@ const CertificationsSection = () => {
       link: "https://www.codecademy.com/profiles/Harshal___________Jadhav/certificates/5cafb2d937090210d7df3652",
       gradient: "from-blue-500 to-blue-400",
       color: "text-blue-400"
-    },
-    {
-      title: "FinOps Certified Engineer",
-      issuer: "The Linux Foundation",
-      icon: "💰",
-      link: "https://www.credly.com/badges/6a7b93fd-d456-4bb7-8340-a1439c958212/public_url",
-      gradient: "from-purple-500 to-pink-500",
-      color: "text-purple-400"
     }
   ];
 
