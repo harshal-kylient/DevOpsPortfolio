@@ -5,9 +5,9 @@ const EducationSection = () => {
   const education = [
     {
       degree: "B.Tech in Computer Science",
-      institution: "S B Jain Institute of Technology",
+      institution: "S B Jain Institute of Technology Management and Research",
       period: "2020 – 2024",
-      location: "Management and Research, Nagpur",
+      location: "Nagpur",
       icon: GraduationCap,
       gradient: "from-blue-500 to-green-500"
     },
