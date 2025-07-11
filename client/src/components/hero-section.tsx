@@ -36,7 +36,7 @@ const HeroSection = () => {
           <img 
             src="https://harshal-jadhav.site/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FIMG_20250528_112932.f8103ba1.jpg&w=3840&q=75" 
             alt="Harshal Jadhav" 
-            className="w-32 h-32 rounded-full mx-auto border-4 border-blue-400 shadow-2xl animate-glow" 
+            className="w-32 h-32 rounded-full mx-auto border-4 border-blue-400 shadow-2xl animate-glow object-cover object-center" 
           />
         </motion.div>
 
