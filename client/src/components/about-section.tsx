@@ -105,18 +105,18 @@ const AboutSection = () => {
             />
             
             {/* Overlay stats */}
-            <motion.div 
+            {/* <motion.div 
               className="absolute -bottom-6 -right-6 glassmorphism p-6 rounded-lg"
               initial={{ opacity: 0, scale: 0.5 }}
               whileInView={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.5, delay: 0.8 }}
               viewport={{ once: true }}
-            >
-              <div className="text-center">
-                <div className="text-3xl font-bold text-green-400">3+</div>
+            > */}
+              {/* <div className="text-center">
+                <div className="text-3xl font-bold text-green-400">1+</div>
                 <div className="text-sm text-gray-400">Years Experience</div>
-              </div>
-            </motion.div>
+              </div> */}
+            {/* </motion.div> */}
             <motion.div 
               className="absolute -top-6 -left-6 glassmorphism p-6 rounded-lg"
               initial={{ opacity: 0, scale: 0.5 }}
